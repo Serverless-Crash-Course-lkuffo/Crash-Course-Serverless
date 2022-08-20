@@ -3,8 +3,7 @@
 ![](https://user-images.githubusercontent.com/2752551/30404911-d575539c-989d-11e7-9a74-df8533b95c6d.png)
 
 ## Introducción 
-Como parte de este curso vamos a desarrollar tres funciones con Serverless Computing. Cada función contará con tests unitarios y despliegue automático en un ambiente de AWS. Finalmente, se realizan tests de integración automáticos. 
-
+Como parte de este curso vamos a desarrollar tres funciones con Serverless Computing. Cada función contará con tests unitarios y despliegue automático en un ambiente de AWS. Finalmente, se realizan tests de integración automáticos.
 
 ## Pre-requisitos
 - **Git**: Necesitaremos Git para realizar cambios en sus repositorios de GitHub.
